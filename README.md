@@ -4,6 +4,8 @@ My name is Luiz Carlos, I am an undergraduate student of Computer Science at the
 I am interested in logic, circuit design, and programming paradigms.
 My aim is to become a professor of computer science.
 
+I am currently working with description logics and Web Ontology Language.
+
 [Currículo Lattes](http://lattes.cnpq.br/0149087285874708)
 
 ## Github Stats
