@@ -1,7 +1,7 @@
 # Hello
 
 My name is Luiz Carlos, I am an undergraduate student of Computer Science at the University of Brasília (UnB).
-I am interested in logic, circuit design, and programming paradigms.
+I am interested in logic, circuit design, system software and programming paradigms.
 My aim is to become a professor of computer science.
 
 
